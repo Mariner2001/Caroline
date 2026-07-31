@@ -1,0 +1,13 @@
+id,nombre,latitud,longitud,tipo,fuente,notas
+ZH,Zona de ocio (punto de dispersion),41.5336445,2.0998452,ancla,cartografia publica,origen del plano metrico local
+SUD,Estacion Sabadell Sud,41.5287051,2.1054052,ancla,cartografia publica,ancla de la ultima llamada
+FEU,Castell de Can Feu,41.5393237,2.0936818,referencia,cartografia publica,
+NOR,Estacion Sabadell Nord,41.5619458,2.0962433,referencia,cartografia publica,extremo N de la traza R4
+CEN,Estacion Sabadell Centre,41.5464246,2.1156055,referencia,cartografia publica,
+SEC1,Riu Sec - Sant Quirze del Valles,41.5261315,2.0894665,hidrografia,cartografia publica,punto NO de la polilinea
+SEC2,Riu Sec - Barbera del Valles,41.5167637,2.1151786,hidrografia,cartografia publica,
+SEC3,Riu Sec - Cerdanyola,41.5010170,2.1284971,hidrografia,cartografia publica,
+SEC4,Riu Sec - Cerdanyola (Acacies),41.4920899,2.1441170,hidrografia,cartografia publica,punto SE de la polilinea
+RIP1,Ripoll - parc fluvial N,41.5623380,2.1093770,hidrografia,cartografia publica,
+RIP2,Ripoll - Pont de la Salut,41.5564364,2.1169399,hidrografia,cartografia publica,
+RIP3,Ripoll - tramo SE,41.5436708,2.1257046,hidrografia,cartografia publica,prolongado 2200 m aguas abajo
