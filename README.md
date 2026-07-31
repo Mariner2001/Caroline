@@ -63,8 +63,7 @@ cd paper && for i in 1 2 3; do pdflatex -interaction=nonstopmode paper.tex; done
 Las tres pasadas de `pdflatex` resuelven referencias cruzadas. Semilla fija
 `20150315` en los tres scripts: los números son deterministas.
 
-Los scripts escriben las figuras en el directorio desde el que se ejecutan. Si
-los lanzas desde la raíz, muévelas después:
+Los scripts escriben las figuras en el directorio desde el que se ejecutan. Lanzándolas desde la raíz, se mueven después:
 
 ```bash
 mv fig*.pdf paper/figures/
@@ -81,20 +80,20 @@ LaTeX con `tikz`, `booktabs`, `tcolorbox`, `amsmath`.
 Ordenado por rendimiento sobre coste. Los cinco primeros son de coste
 esencialmente nulo para quien tenga acceso.
 
-1. **Secuencia ordenada de Cell IDs.** Habilita el test Hα/Hβ sin necesidad de
+1. **Secuencia ordenada de Cell IDs.** Habilitar el test Hα/Hβ sin necesidad de
    coordenadas, azimuts ni potencias. Máximo rendimiento por unidad de
    información requerida.
-2. **Marcas temporales exactas de los registros.** Decide por completo el
+2. **Marcas temporales exactas de los registros.** Decidir por completo el
    Resultado 4: con intervalos de 60 s la inferencia de velocidad carece de
-   fundamento; con intervalos de 10 min lo tendría.
-3. **Existencia de *timing advance*.** Reduciría la ambigüedad posicional de
+   fundamento; con intervalos de 10 min se tendría.
+3. **Existencia de *timing advance*.** Reducir la ambigüedad posicional de
    razón 5 a anillos de ≈550 m (GSM) o ≈78 m (LTE).
 4. **Naturaleza de la última llamada:** atendida o no. Reordena la estructura
    temporal completa.
 5. **Constancia documental de batidas sobre el corredor del Riu Sec.** El modelo
    lo sitúa como objetivo de mayor rendimiento marginal, pero presupone que no
    ha sido inspeccionado.
-6. **Horario de la línea R4 del 15/03/2015.** Resuelve el Resultado 7 de forma
+6. **Horario de la línea R4 del 15/03/2015.** Resolver el Resultado 7 de forma
    binaria.
 
 ## Limitaciones
@@ -127,20 +126,20 @@ que una persona no implicada produciría la misma evidencia — que en este cont
 es alta y no estimable con los datos disponibles. Omitirla es la falacia del
 fiscal. El apéndice A.6 lo desarrolla.
 
-**Si reutilizas este material, mantén esa línea.** Añadir nombres a estos
+**Reutilizando este material, mantener esa línea.** Añadir nombres a estos
 cálculos no los hace más informativos; los hace jurídicamente peligrosos y
 metodológicamente falsos.
 
 ## Cómo contribuir
 
 Lo más útil no son más hipótesis, sino cerrar las comprobaciones de la lista de
-arriba. Si tienes acceso a alguno de esos datos, o detectas un error en los
-cálculos, abre un *issue*.
+arriba. Si hay acceso a alguno de esos datos, o se detecta un error en los
+cálculos, se abre un *issue*.
 
 Los scripts son deterministas: cualquier discrepancia numérica es reproducible y
 por tanto discutible.
 
 ## Licencia
 
-Se sugiere CC BY 4.0 para el texto y MIT para el código. Añade los ficheros
+Se sugiere CC BY 4.0 para el texto y MIT para el código. Añadir los ficheros
 `LICENSE` correspondientes antes de publicar.
