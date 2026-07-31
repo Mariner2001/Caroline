@@ -88,7 +88,7 @@ esencialmente nulo para quien tenga acceso.
    fundamento; con intervalos de 10 min se tendría.
 3. **Existencia de *timing advance*.** Reducir la ambigüedad posicional de
    razón 5 a anillos de ≈550 m (GSM) o ≈78 m (LTE).
-4. **Naturaleza de la última llamada:** atendida o no. Reordena la estructura
+4. **Naturaleza de la última llamada:** atendida o no. Reordenar la estructura
    temporal completa.
 5. **Constancia documental de batidas sobre el corredor del Riu Sec.** El modelo
    lo sitúa como objetivo de mayor rendimiento marginal, pero presupone que no
