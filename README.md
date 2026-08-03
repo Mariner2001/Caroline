@@ -1,4 +1,4 @@
-# Reconstrucción cuantitativa de la ventana crítica en una desaparición no resuelta
+# Auditoría cuantitativa de inferencias en un caso de desaparición no resuelto
 
 Análisis espaciotemporal, de posicionamiento celular y de teoría de búsqueda
 aplicado a un caso abierto. **Sabadell (Barcelona), 15 de marzo de 2015.**
