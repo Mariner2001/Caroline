@@ -138,8 +138,3 @@ cálculos, se abre un *issue*.
 
 Los scripts son deterministas: cualquier discrepancia numérica es reproducible y
 por tanto discutible.
-
-## Licencia
-
-Se sugiere CC BY 4.0 para el texto y MIT para el código. Añadir los ficheros
-`LICENSE` correspondientes antes de publicar.
