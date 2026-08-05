@@ -83,7 +83,7 @@ barrido de sensibilidad · cobertura del 57 %.
 | 25 | Ventana de salida | U(05:55 ; 06:25) | derivado | declarado | §8.1 |
 | 26 | Velocidad de circulación | N(112, 14) km/h trunc. [70,150] | estimación | **no** | — |
 | 27 | Sobrecoste de incorporación y peajes | Exp(media 4 min) | estimación | **no** | — |
-| 28 | Distancia por AP-7 | 152 km | estimación | **no** | — |
+| 28 | Distancia por AP-7 | 146 km | estimación | **no** | — |
 
 > **Recuento.** El inventario lista **28 parámetros libres**: 18 estimaciones no
 > medidas, 6 valores de literatura, 2 derivados de fuentes secundarias sobre el caso, 1
